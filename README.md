@@ -1,1 +1,1 @@
-# Cardiomyocyte-fibroblast-electrial-coupling
+# Myofibroblast-cardiomyocyte interactions and their differents across species
